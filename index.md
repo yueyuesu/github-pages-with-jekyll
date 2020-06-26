@@ -1,6 +1,4 @@
-# YUE SU
-
-你好，今天是2020年06月26日。我嘗試使用 github-pages-with-jekyll 教程，一步一步完成此頁。
+2020年06月26日。我嘗試使用 github-pages-with-jekyll 教程，一步一步完成此頁。
 
 **就算辛苦，也要堅持能夠到接案的程度**
 
