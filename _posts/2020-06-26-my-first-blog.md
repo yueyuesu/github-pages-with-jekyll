@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title: "MY FIRST BLOG"
 date: 2020-06-26
 ---
 
